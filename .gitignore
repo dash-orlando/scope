@@ -1,2 +1,5 @@
 backup/
 DICOM/
+Source/
+*.tmp
+*.psd
